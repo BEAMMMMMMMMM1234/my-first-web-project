@@ -1,14 +1,20 @@
 # Hello! 👋
 
-ฉันชื่อ **\[รัตน์ติญาภรณ์ แหลมจัด]**  ยินดีที่ได้รู้จัก! 😄
+ฉันชื่อ **Rattiniyaporn Laemjad** ยินดีที่ได้รู้จัก! 😄
 
 ---
 
 ## Contact Me
 
-*   **GitHub:** [https://github.com/BEAMMMMMMMMM1234]
-*   **Email:** [67024863@up.ac.th]
+* **GitHub:** [https://github.com/BEAMMMMMMMMM1234](https://github.com/BEAMMMMMMMMM1234)
+* **Email:** [67024863@up.ac.th](mailto:67024863@up.ac.th)
 
 ---
 
 > "BYB!"
+
+---
+
+## 🐶 My Running Pets
+
+![Running Dog](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
