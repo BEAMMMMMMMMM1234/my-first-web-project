@@ -17,4 +17,8 @@
 
 ## 🐶 My Running Pets
 
-![Running Dog](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Running Dog](./images/dog.gif)
+![Running Fish](./images/fish.gif)
+
+
+
