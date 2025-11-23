@@ -7,7 +7,7 @@
 ## Contact Me
 
 *   **GitHub:** [https://github.com/BEAMMMMMMMMM1234]
-*   **Email:** `\[67024863@up.ac.th]`
+*   **Email:** [67024863@up.ac.th]
 
 ---
 
