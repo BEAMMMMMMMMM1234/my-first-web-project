@@ -1,6 +1,6 @@
 # Hello! 👋
 
-ฉันชื่อ **Rattiniyaporn Laemjad** ยินดีที่ได้รู้จัก! 😄
+My name is **Rattiniyaporn Laemjad**. Nice to meet you! 😄
 
 ---
 
@@ -15,10 +15,23 @@
 
 ---
 
-## 🐶 My Running Pets
+## 🐶🐟 My Pets Running Around
 
-![Running Dog](./images/dog.gif)
-![Running Fish](./images/fish.gif)
+Here are my pets running around on GitHub!  
+
+![Running Dog](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Running Fish](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+---
+
+## About Me
+p
+* **Nickname:** Beam  
+* **Pets:** Dog, Fish  
+* **Favorite Artist:** The Weeknd  
+* **Favorite Song:** Toronto 2014  
+* **Favorite Food:** Noodles, Shabu, Mala Hotpot  
+* **Education:** Currently studying at University of Phayao
 
 
 
